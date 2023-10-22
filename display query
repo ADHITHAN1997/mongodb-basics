@@ -1,0 +1,3 @@
+# restaurants collection so use db.restaurants
+#query
+db.restaurants.find();
